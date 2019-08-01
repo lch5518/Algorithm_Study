@@ -1,3 +1,4 @@
 # Algorithm_Study
-
-# list
+## list
+1. ...
+2. ...

@@ -1,6 +1,6 @@
 # Algorithm_Study
 
-## CodeSignal Algorithm list
+* CodeSignal Algorithm list
 1. palindrome
 2. adjacentElementsProduct
 3. shapeArea

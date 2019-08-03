@@ -1,4 +1,4 @@
-# Algorithm_Study(필사)
+# Algorithm_Study
 
 * Intro
 1. palindrome

@@ -1,4 +1,4 @@
-# Algorithm_Study
+# CodeSignal
 
 * Intro
 1. palindrome

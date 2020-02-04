@@ -1,3 +1,3 @@
 # Algorithm_Study
 
-![69](image/69.png)
+![69](Image/69.png)
